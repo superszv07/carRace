@@ -8,9 +8,6 @@
     background-repeat: no-repeat;
     background-size: 100% 100%;
     }
-    .hide {
-    display: none;
-    }
     .startScreen {
     width: 400px;
     height: 107px;
@@ -76,3 +73,6 @@
     position: absolute;
     margin-left: 195px;
     }
+    .hide {
+        display: none;
+        }
